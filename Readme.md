@@ -6,14 +6,16 @@ Data Cleansing Details :
   * Date was not entered in the same format. For eg 2019/12/12 and 12/12/2019.
   * The latitude and longitude was not entered correctly as some of the data points were in the water bodies. 
 
-  ![](Capture.png)
+![](Capture.png)
 <br />
 
   * After Cleaning.
-    ![](Capture2.png)
+![](Capture2.png)
 <br />
+
   * Distance correction between the two points using distance formula.
   * The time difference between the starting time and delivery time was one of the biggest task and has been explained in the file well.
+  
 3. Some of the data points were in wrong clusters. 
 
 ![](Capture3.png)
